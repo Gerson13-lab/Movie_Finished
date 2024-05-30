@@ -17,7 +17,7 @@ def load_image_dict():
     return image_dict
 
 def load_movie_list():
-    file = open("C:\\Users\gerso\\movie_finished_project\\movie.txt", 'r')
+    file = open("C:\\Users\\gerso\\movie_finished_project\\movie.txt", 'r')
     movie_list = []
     for line in file:
         parts = line.strip().rsplit(' ', 2)  # used to split each entry
