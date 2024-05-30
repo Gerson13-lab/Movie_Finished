@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Movie Generator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <center><h1>Random Movie Generator</h1><center>
+        <form method="post">
+            <button type="submit">Generate Random Movie</button>
+        </form>
+        {% if random_movie_chosen %}
+            <div class="movie-info">
+                <center><h2>Random Movie Generated:</h2><center>
+                <center><p>Movie name: {{ random_movie_chosen.movie_name }}</p>
+                <center><p>Movie rating: {{ random_movie_chosen.tomato_rating }}</p><center>
+                <center><p>Year released: {{ random_movie_chosen.release_date }}</p><center>
+                {% if movie_image_url %}
+                    <img src="{{ movie_image_url }}" alt="Movie Poster" style="max-width: 100%; height: auto;">
+                {% endif %}
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>

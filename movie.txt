@@ -1,0 +1,100 @@
+'The Godfather' 99 1997
+'LA Confidential' 97 1972
+'Casablanca' 99 1942
+'Seven Samurai' 100 1954
+'Parasite' 99 2019
+'Schindler's List' 98 1993
+'Top Gun: Maverick' 96 2022
+'Toy Story 2' 100 1999
+'Chinatown' 98 1974
+'On The Waterfront' 99 1954
+'The Battle of Algiers' 99 1966
+'Toy Story' 100 1995
+'Rear Window' 98 1954
+'Modern Times' 98 1936
+'How To Train your Dragon' 99 2010
+'All About Eve' 99 1950
+'Spirited Away' 96 2001
+'Up' 98 2009
+'The Third Man' 99 1949
+'Spotlight' 97 2015
+'Spider-Man: Into the Spider-Verse' 97 2018
+'The Philadelphia Story' 100 1940
+'Finding Nemo' 99 2003
+'Singin' in The Rain' 100 1952
+'12 Angry Men' 100 1957
+'Toy Story 3' 98 2010
+'Sunset Boulevard' 98 1950
+'Coco' 97 2017
+'The Godfather, Part 2' 96 1974
+'Three Colors: Red' 100 1994
+'Selma' 99 2014
+'Zootopia' 98 2016
+'Citizen Kane' 99 1941		
+'Annie Hall' 97 1997 
+'Cool Hand Luke' 100 1967
+'The Holdovers' 97 2023 
+'Inside Out' 98 2015 
+'Dr. Strangelove Or: How I Learned to Stop Worrying and Love the Bomb' 98 1964
+'Let the Right One In' 98 2008 
+'The Lord of the Rings: The Two Towers' 95 2002 
+'Knives Out' 97 2019
+'M' 100 1931
+'Toy Story 4' 97 2019 
+'The Wrestler' 98 2008 
+'Goodfellas' 95 1990 
+'The Wizard of Oz' 98 1939 
+'Double Indemnity' 97 1994 
+'Psycho' 97 1960 
+'Paddington 2' 99 2017 
+'Paddington' 94 2008 
+'Before Sunrise' 100 1995 	
+'The Maltese Falcon' 99 1941 
+'It Happened One Night' 98 1934 
+'The Wages of Fear' 100 1953 
+'North by Northwest' 97 1959 
+'Bicycle Thieves' 99 1948 
+'Alien' 93 1979 
+'Argo' 96 2012 
+'Get Out' 98 2017 
+'The Kid' 100 1921 
+'Mission: Impossible - Dead Reckoning Part One' 96 2023 
+'The Pianist' 95 2002 
+'Kind Hearts and Coronets' 100 1949 
+'The 400 Blows' 99 1959 
+'Grave of the Fireflies' 100 1998 
+'The Big Sick' 98 2017 
+'Minari' 98 2020 
+'Portrait of a Lady on Fire' 97 2019 
+'The Treasure of the Sierra Madre' 100 1948 
+'Apocalypse Now' 97 1979 
+'Mission: Impossible - Fallout' 97 2018 
+'The Last Picture Show' 98 1971 
+'Tampopo' 100 1985 
+'Mad Max: Fury Road' 97 2015 
+'Tokyo Story' 90 1953 
+'A Hard Day's Night' 98 1964
+'Metropolis' 97 1927 
+'Good Will Hunting' 97 1997 
+'The Gold Rush' 100 1925 
+'Aliens' 98 1996 
+'Spider-Man: Across the Spider-Verse' 95 2023 
+'The Good, the Bad and the Ugly' 97 1967 
+'Harry Potter and the Deathly Hallows: Part 2' 96 2011
+'The Silence of the Lambs' 95 1991 
+'Fanny and Alexander' 100 1982 
+'Laura' 100 1944
+'The Shop Around the Corner' 99 1940
+'His Girl Friday' 99 1940
+'All Quiet on the Western Front' 98 1930
+'Monsters, Inc.' 96 2001  
+'Nights of Cabiria' 100 1957 
+'Pather Panchali' 98 1955
+'Meet Me in St. Louis' 100 1944
+'Witness for the Prosecution' 100 1957
+'Eighth Grade' 99 2018
+'Rebecca' 98 1940
+'Stalker' 100 1979
+'The Terminator' 100 1984
+'Memento' 94 2000
+'The Social Network' 96 2010
