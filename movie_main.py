@@ -6,30 +6,25 @@ app = Flask(__name__)
 
 # Function to load movies from file and create a image dictionary
 def load_image_dict():
-    file = open("movie_image.txt", 'r')
+    file = open("movie_image.txt", 'r') # final project has different file path in order to work with 'Python Anything'.
     image_dict = {}
     for line in file: 
         parts = line.strip().rsplit(' ', 1) #splits each line entry in file
         # Remove the extra quotes from the movie name
         movie_name = parts[0].strip("'\"")  # Ensure the movie name is stripped of quotes
         image_dict[movie_name] = parts[1] 
-    
     return image_dict
     
 #function to load movie objects into list.
 def load_movie_list():
-<<<<<<< HEAD
-    file = open("C:\\Users\\gerso\\movie_finished_project\\movie.txt", 'r')
-=======
+    file = open("C:\\Users\\gerso\\movie_finished_project\\movie.txt", 'r') ##final project has different file path in order to work with 'Python Anything'
     file = open("movie.txt", 'r')
->>>>>>> 6e493d7930da05afe084bcb96fa852d9aa38ab0f
     movie_list = []
     for line in file:
         parts = line.strip().rsplit(' ', 2)  # used to split each entry
         # Ensure the movie name is stripped of quotes
         curr_movie = movies_100(parts[0], parts[1], parts[2])
-        movie_list.append(curr_movie)
-        
+        movie_list.append(curr_movie) 
     return movie_list
 
 
@@ -44,7 +39,7 @@ movie_list = load_movie_list()
 #Load image_dictionary
 image_dict = load_image_dict()
 
-#used to connect to FLASK application
+#used to connect to FLASK
 @app.route('/', methods=['GET', 'POST'])
 def index():
     random_movie_chosen = None
