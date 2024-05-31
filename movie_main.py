@@ -4,24 +4,28 @@ import numpy as np
 
 app = Flask(__name__)
 
-# Function to load movies from file and create a list of movie objects
+# Function to load movies from file and create a image dictionary
 def load_image_dict():
-    file = open("C:\\Users\\gerso\\movie_finished_project\\movie_image.txt", 'r')
+    file = open("movie_image.txt", 'r')
     image_dict = {}
     for line in file: 
         parts = line.strip().rsplit(' ', 1) #splits each line entry in file
         # Remove the extra quotes from the movie name
         movie_name = parts[0].strip("'\"")  # Ensure the movie name is stripped of quotes
-        image_dict[movie_name] = parts[1]
-        
+        image_dict[movie_name] = parts[1] 
+    
     return image_dict
-
+    
+#function to load movie objects into list.
 def load_movie_list():
+<<<<<<< HEAD
     file = open("C:\\Users\\gerso\\movie_finished_project\\movie.txt", 'r')
+=======
+    file = open("movie.txt", 'r')
+>>>>>>> 6e493d7930da05afe084bcb96fa852d9aa38ab0f
     movie_list = []
     for line in file:
         parts = line.strip().rsplit(' ', 2)  # used to split each entry
-        # Remove the extra quotes from the movie name. ensures dict and m list have same movie_name type.
         # Ensure the movie name is stripped of quotes
         curr_movie = movies_100(parts[0], parts[1], parts[2])
         movie_list.append(curr_movie)
